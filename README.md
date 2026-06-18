@@ -6,7 +6,6 @@ already in the game, the menu just never points to them. This swaps them in.
 
 It replaces the keyboard icon font with the controller icon font that ships with
 the game, so every on-screen button prompt shows gamepad glyphs instead of keys.
-No exe edits, no DLLs, just the font assets.
 
 ## Install
 
