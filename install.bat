@@ -1,5 +1,5 @@
 @echo off
-setlocal enabledelayedexpansion
+setlocal
 
 set "C=resource\finalizedCommon\mithril\system\font\st"
 set "W=resource\finalizedWin64\mithril\system\font\st"
@@ -22,7 +22,7 @@ call :do ch font_menu
 call :do ko font_menu
 
 echo.
-echo Done. Controller prompts are forced on. Start the game and check.
+echo Done! Enjoy your controller binds!!!
 echo Run uninstall.bat any time to put the keyboard prompts back.
 echo.
 pause
